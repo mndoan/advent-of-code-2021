@@ -5,4 +5,5 @@ Solutions are completed using R.
 
 ## Puzzles
 * Day 1: Sonar Sweep
-* Day 2: TBA
+* Day 2: Dive!
+* Day 3: TBA
